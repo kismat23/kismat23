@@ -1,4 +1,6 @@
 ### Hi there 👋
+myself Kishmat.
+Basically, I code some Javascript and Python.
 
 <!--
 **kismat23/kismat23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
